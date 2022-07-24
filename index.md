@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Всё что нужно знать о выборе участка и покупке или строительстве дома
 
 You can use the [editor on GitHub](https://github.com/zasca/house/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
